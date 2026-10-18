@@ -1,0 +1,2 @@
+# premium-foam-pup-001-foam-puppet-carving-and-coveri
+Losing track of your carving cuts and covering layers? Stop guessing and start logging every detail of your foam puppet build with a dedicated process log.  This Notion template solves the chaos of scattered notes and forgotten techniques by providing a structured system to capture measurements, foam density, adhesive types, and covering tension. W
